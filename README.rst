@@ -1,48 +1,16 @@
-.. You should enable this project on travis-ci.org and coveralls.io to make
-   these badges work. The necessary Travis and Coverage config files have been
-   generated for you.
-
-.. image:: https://travis-ci.org/bzar/ckanext-fluentall.svg?branch=master
-    :target: https://travis-ci.org/bzar/ckanext-fluentall
-
-.. image:: https://coveralls.io/repos/bzar/ckanext-fluentall/badge.png?branch=master
-  :target: https://coveralls.io/r/bzar/ckanext-fluentall?branch=master
-
-.. image:: https://pypip.in/download/ckanext-fluentall/badge.svg
-    :target: https://pypi.python.org/pypi//ckanext-fluentall/
-    :alt: Downloads
-
-.. image:: https://pypip.in/version/ckanext-fluentall/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-fluentall/
-    :alt: Latest Version
-
-.. image:: https://pypip.in/py_versions/ckanext-fluentall/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-fluentall/
-    :alt: Supported Python versions
-
-.. image:: https://pypip.in/status/ckanext-fluentall/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-fluentall/
-    :alt: Development Status
-
-.. image:: https://pypip.in/license/ckanext-fluentall/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-fluentall/
-    :alt: License
-
 =============
 ckanext-fluentall
 =============
 
-.. Modified from ckanext-switzerland (https://github.com/ogdch/ckanext-switzerland/)
-   Adds fluent multilingual support for base fields in CKAN
+Modified from ckanext-switzerland (https://github.com/ogdch/ckanext-switzerland/)
+Adds fluent multilingual support for base fields in CKAN
 
 
 ------------
 Requirements
 ------------
 
-For example, you might want to mention here which versions of CKAN this
-extension works with.
-
+CKAN 2.4.1
 
 ------------
 Installation
