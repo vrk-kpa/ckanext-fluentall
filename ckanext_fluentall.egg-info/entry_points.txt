@@ -1,0 +1,7 @@
+
+        [ckan.plugins]
+        fluentall_pkg=ckanext.fluentall.plugin:FluentallPackagePlugin
+        fluentall_res=ckanext.fluentall.plugin:FluentallResourcePlugin
+        fluentall_grp=ckanext.fluentall.plugin:FluentallGroupPlugin
+        fluentall_org=ckanext.fluentall.plugin:FluentallOrganizationPlugin
+    
